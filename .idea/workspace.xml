@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc40177a-26f0-4927-ba34-734ffcff032f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/consumer/kafkaConsume$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/consumer/kafkaConsume$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/consumer/kafkaConsume$$anonfun$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/consumer/kafkaConsume$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/consumer/kafkaConsume.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset$$anonfun$getConsumerOffsets$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset$$anonfun$getResetOffsets$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset$$anonfun$getResetOffsets$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/GetFromOffset.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/test/kafkaConsume$$anonfun$main$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/csq.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spark-kafka.iml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/spark/utils/info" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/spark/utils/utils$$anonfun$1.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/spark/utils/utils$$anonfun$2.class" afterPath="" />
@@ -17,7 +31,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/zyuc/sparkkafka/kafkaConsume$$anonfun$main$1.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/zyuc/sparkkafka/kafkaConsume$.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/zyuc/sparkkafka/kafkaConsume.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zyucsparkkafka.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$1.class" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$2$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$2$$anonfun$apply$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$2.class" afterPath="$PROJECT_DIR$/target/classes/com/zyuc/offsetmanage/OffsetInZK$$anonfun$getZKOffsets$2.class" />
@@ -188,7 +201,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -530,7 +543,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="723" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="723" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
