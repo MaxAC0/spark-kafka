@@ -1,9 +1,12 @@
 package com.zyuc.offsetmanage
 
 import kafka.common.TopicAndPartition
+import org.apache.log4j.Logger
 import org.apache.spark.streaming.kafka.KafkaCluster
 
 object GetFromOffset {
+  val logger = Logger.getLogger("offsetmanage.GetFromOffset")
+
   /**
     * 获取smallest或者largest的offset
     * @param kafkaParam Kafka configuration parameters
@@ -27,6 +30,8 @@ object GetFromOffset {
         offsets += tp -> leaderOffsets(tp).offset
       })
     }
+
+    logger.info(s"topics: $topics, reset: $reset, offsets: $offsets")
     offsets
   }
 
@@ -37,7 +42,7 @@ object GetFromOffset {
     * @param groupName kafka consumer group
     * @return
     */
-  def getConSumerOffsets(zK: OffsetInZK.type , kafkaParam: Map[String, String], topicSet:Set[String], groupName:String) : Map[TopicAndPartition, Long] = {
+  def getConsumerOffsets(zK: OffsetInZK.type , kafkaParam: Map[String, String], topicSet:Set[String], groupName:String) : Map[TopicAndPartition, Long] = {
     val brokers = kafkaParam("metadata.broker.list")
     val kafkaSmallestParams = Map[String, String]("metadata.broker.list" -> brokers, "auto.offset.reset" -> "smallest")
     val kafkaLargestParams = Map[String, String]("metadata.broker.list" -> brokers, "auto.offset.reset" -> "largest")
@@ -58,6 +63,7 @@ object GetFromOffset {
         }
 
     })
+    logger.info(s"offsets compare:\nsmallest: $smallOffsets\nlargest: $largestOffsets\nstored in zk: $consumerOffsets")
     offsets
   }
 }

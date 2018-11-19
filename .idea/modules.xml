@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/zyucsparkkafka.iml" filepath="$PROJECT_DIR$/zyucsparkkafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-kafka.iml" filepath="$PROJECT_DIR$/spark-kafka.iml" />
     </modules>
   </component>
 </project>
