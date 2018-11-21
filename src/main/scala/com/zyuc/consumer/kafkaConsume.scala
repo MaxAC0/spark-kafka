@@ -23,7 +23,7 @@ object kafkaConsume {
     val groupId = sc.getConf.get("spark.app.groupId", "")
     logger.info(s"brokers: $brokers, zookeeper: $zookeeper, topic: $topic, groupId: $groupId")
 
-    val sparkConf = new SparkConf().setMaster("local[2]").setAppName("mykafka")
+    //val sparkConf = new SparkConf().setMaster("local[2]").setAppName("mykafka")
     var kafkaParams = Map[String, String]("metadata.broker.list" -> brokers)
 
     // 从zk取断点
@@ -33,7 +33,7 @@ object kafkaConsume {
     logger.info("fromOffsets.mkString:" + fromOffsets.mkString)
 
 
-    val ssc = new StreamingContext(sparkConf, Seconds(5))
+    val ssc = new StreamingContext(sc, Seconds(5))
     val messageHandler = (mmd : MessageAndMetadata[String, String]) => (mmd.topic, mmd.message())
     // 从断点fromOffsets开始读数据
     val kafkaStream = KafkaUtils.createDirectStream[String, String, StringDecoder,StringDecoder, (String, String)](

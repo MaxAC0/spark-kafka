@@ -1,62 +1,80 @@
 products:
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\consumer\kafkaConsume$$anonfun$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\consumer\kafkaConsume$$anonfun$main$1$$anonfun$apply$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\consumer\kafkaConsume$$anonfun$main$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\consumer\kafkaConsume$.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\consumer\kafkaConsume.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset$$anonfun$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset$$anonfun$getConsumerOffsets$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset$$anonfun$getResetOffsets$1.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset$$anonfun$getResetOffsets$2.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset$.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\GetFromOffset.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK$$anonfun$getZKOffsets$1.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK$$anonfun$getZKOffsets$2$$anonfun$apply$1.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK$$anonfun$getZKOffsets$2.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK$$anonfun$saveOffsets$1.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK$.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\offsetmanage\OffsetInZK.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$$anonfun$1.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$$anonfun$2.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$$anonfun$getConSumerOffsets$1.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$$anonfun$getResetOffsets$1.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$$anonfun$getResetOffsets$2.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils$.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\spark\utils\utils.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$$anonfun$1.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$$anonfun$2.class
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$$anonfun$3.class
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$$anonfun$main$1$$anonfun$apply$1.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$$anonfun$main$1.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume$.class
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\target\classes\com\zyuc\test\kafkaConsume.class
 binary dependencies:
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Java1.8\jdk1.8.0_152\jre\lib\rt.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\kafka\kafka_2.11\0.9.0-kafka-2.0.2\kafka_2.11-0.9.0-kafka-2.0.2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-core_2.11\2.2.0.cloudera2\spark-core_2.11-2.2.0.cloudera2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.2.0.cloudera2\spark-streaming-kafka-0-8_2.11-2.2.0.cloudera2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming_2.11\2.2.0.cloudera2\spark-streaming_2.11-2.2.0.cloudera2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> C:\Java1.8\jdk1.8.0_152\jre\lib\rt.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> C:\Users\csq\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> C:\Users\csq\.m2\repository\org\apache\kafka\kafka_2.11\0.9.0-kafka-2.0.2\kafka_2.11-0.9.0-kafka-2.0.2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.2.0.cloudera2\spark-streaming-kafka-0-8_2.11-2.2.0.cloudera2.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> C:\Users\csq\.m2\repository\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Java1.8\jdk1.8.0_152\jre\lib\rt.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\org\apache\curator\curator-client\2.7.1\curator-client-2.7.1.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\org\apache\curator\curator-framework\2.7.1\curator-framework-2.7.1.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\org\apache\kafka\kafka_2.11\0.9.0-kafka-2.0.2\kafka_2.11-0.9.0-kafka-2.0.2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.2.0.cloudera2\spark-streaming-kafka-0-8_2.11-2.2.0.cloudera2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> C:\Users\csq\.m2\repository\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> C:\Java1.8\jdk1.8.0_152\jre\lib\rt.jar
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> C:\Users\csq\.m2\repository\org\apache\kafka\kafka_2.11\0.9.0-kafka-2.0.2\kafka_2.11-0.9.0-kafka-2.0.2.jar
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.2.0.cloudera2\spark-streaming-kafka-0-8_2.11-2.2.0.cloudera2.jar
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming_2.11\2.2.0.cloudera2\spark-streaming_2.11-2.2.0.cloudera2.jar
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> C:\Users\csq\.m2\repository\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Java1.8\jdk1.8.0_152\jre\lib\rt.jar
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\kafka\kafka_2.11\0.9.0-kafka-2.0.2\kafka_2.11-0.9.0-kafka-2.0.2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-core_2.11\2.2.0.cloudera2\spark-core_2.11-2.2.0.cloudera2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming-kafka-0-8_2.11\2.2.0.cloudera2\spark-streaming-kafka-0-8_2.11-2.2.0.cloudera2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\apache\spark\spark-streaming_2.11\2.2.0.cloudera2\spark-streaming_2.11-2.2.0.cloudera2.jar
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> C:\Users\csq\.m2\repository\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar
 source dependencies:
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala
 external dependencies:
 class names:
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> com.zyuc.consumer.kafkaConsume
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> com.zyuc.consumer.kafkaConsume$
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> com.zyuc.consumer.kafkaConsume$$anonfun$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> com.zyuc.consumer.kafkaConsume$$anonfun$main$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\consumer\kafkaConsume.scala -> com.zyuc.consumer.kafkaConsume$$anonfun$main$1$$anonfun$apply$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset$
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset$$anonfun$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset$$anonfun$getConsumerOffsets$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset$$anonfun$getResetOffsets$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\GetFromOffset.scala -> com.zyuc.offsetmanage.GetFromOffset$$anonfun$getResetOffsets$2
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK$
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK$$anonfun$getZKOffsets$1
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK$$anonfun$getZKOffsets$2
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK$$anonfun$getZKOffsets$2$$anonfun$apply$1
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\offsetmanage\OffsetInZK.scala -> com.zyuc.offsetmanage.OffsetInZK$$anonfun$saveOffsets$1
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$$anonfun$1
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$$anonfun$2
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$$anonfun$getConSumerOffsets$1
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$$anonfun$getResetOffsets$1
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\spark\utils\utils.scala -> com.zyuc.spark.utils.utils$$anonfun$getResetOffsets$2
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$$anonfun$1
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$$anonfun$2
-   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$$anonfun$3
    E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$$anonfun$main$1
+   E:\WorkSpace\GitBucket\zyucsparkkafka\src\main\scala\com\zyuc\test\kafkaConsume.scala -> com.zyuc.test.kafkaConsume$$anonfun$main$1$$anonfun$apply$1
